@@ -15,9 +15,11 @@ Final report includes each of the following:
 Findings: 
   * Schools typically have a higher average reading passing % than average math passing % - Schools should focus on the math curriculum to prepare students more
   * Math Scores by grade show that the test is relatively comparable in difficulty to the year before, meaning the actual test material does not need to be reviewed.
-  * School spending per student surprisingly does not equate to higher overall passing %. Opportunity to reallocate budget to provide incentives to teachers or get higher qualified teachers
+  * School spending per student surprisingly does not equate to higher overall passing %. Opportunity to reallocate budget to provide incentives to teachers or get higher qualified teachers. The below graph shows that the scores are actually negatively polarized in performance. 
+ ![Per Student Budget vs. Passing score](BudgetVsPassing.png)
   * Although small and medium sized schools produce similar overall passing students, there is a significant drop in performance in larger schools, likely due to the lack of one-on-one help from a limited number of staff
   * Charter schools have a significantly higher overall passing students percentage. This is mostly due to the application process, therefore charter schools get to selectively draw students. 
+
 
 
 
